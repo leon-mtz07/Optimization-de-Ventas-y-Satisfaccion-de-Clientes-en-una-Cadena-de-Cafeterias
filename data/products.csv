@@ -1,0 +1,21 @@
+product_id,name,category,price,cost
+1,Espresso,Coffee,3.69,1.93
+2,Latte,Coffee,6.28,3.28
+3,Cappuccino,Coffee,5.29,2.76
+4,Americano,Coffee,4.69,2.45
+5,Mocha,Coffee,2.7,1.41
+6,Flat White,Coffee,2.7,1.41
+7,Macchiato,Coffee,2.26,1.18
+8,Cold Brew,Coffee,5.9,3.08
+9,Iced Latte,Coffee,4.71,2.46
+10,Iced Mocha,Coffee,5.19,2.71
+11,Bagel,Bakery,2.09,1.09
+12,Croissant,Bakery,6.36,3.32
+13,Muffin,Bakery,5.75,3.0
+14,Brownie,Bakery,2.96,1.55
+15,Cheesecake,Bakery,2.82,1.47
+16,Sandwich,Food,2.83,1.48
+17,Salad,Food,3.37,1.76
+18,Wrap,Food,4.36,2.28
+19,Smoothie,Food,3.94,2.06
+20,Tea,Drink,3.31,1.73
